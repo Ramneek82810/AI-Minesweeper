@@ -13,6 +13,7 @@ AI Minesweeper is a modern twist on the classic game, showcasing the power of Ar
 -Python-Powered 🐍: Entirely built using Python for simplicity and scalability.
 
 ## Why AI Minesweeper? 🌟
+
 This project demonstrates how AI algorithms can solve complex puzzles in real-time, emphasizing:
 
 -Strategic Thinking: Mimics human-like decision-making with computational efficiency.
