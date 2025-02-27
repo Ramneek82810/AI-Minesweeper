@@ -23,6 +23,7 @@ This project demonstrates how AI algorithms can solve complex puzzles in real-ti
 -Learning Potential: An educational tool for exploring AI in games.
 
 ## How It Works 🧠
+
 -AI Exploration: The AI intelligently scans the Minesweeper grid to identify safe zones.
 
 -Strategic Moves: Combines logic and probability to uncover cells.
