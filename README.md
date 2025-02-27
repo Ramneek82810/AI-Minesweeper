@@ -37,6 +37,7 @@ This project demonstrates how AI algorithms can solve complex puzzles in real-ti
 -Expanding the interface for multiplayer modes.
 
 ## Contribute to the Project 🤝
+
 Your contributions are invaluable! Share your ideas, suggest improvements, or report issues to help refine AI Minesweeper. Together, we can make it even better.
 
 ## License 📜
