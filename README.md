@@ -43,6 +43,7 @@ This project demonstrates how AI algorithms can solve complex puzzles in real-ti
 Your contributions are invaluable! Share your ideas, suggest improvements, or report issues to help refine AI Minesweeper. Together, we can make it even better.
 
 ## License 📜
+
 This project is open-source and available under the MIT License.
 
 Explore the fusion of AI and gaming with AI Minesweeper. Let’s uncover mines, one strategic move at a time! 🎉
