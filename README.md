@@ -1,4 +1,4 @@
-# AI Minesweeper
+# AI Minesweeper 🧠
 
 AI Minesweeper is a modern twist on the classic game, showcasing the power of Artificial Intelligence to play Minesweeper strategically and effectively. With its smart algorithms and interactive design, this project highlights the seamless integration of AI and gameplay.
 
