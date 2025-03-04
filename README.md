@@ -2,7 +2,7 @@
 
 AI Minesweeper is a modern twist on the classic game, showcasing the power of Artificial Intelligence to play Minesweeper strategically and effectively. With its smart algorithms and interactive design, this project highlights the seamless integration of AI and gameplay.
 
-## Features 🚀
+## Features🚀
 
 -Interactive Gameplay 🎮: Experience an engaging interface where AI takes center stage.
 
