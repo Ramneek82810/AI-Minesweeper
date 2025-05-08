@@ -6,7 +6,7 @@ AI Minesweeper is a modern twist on the classic game, showcasing the power of Ar
 
 - Interactive Gameplay 🎮: Experience an engaging interface where AI takes center stage.
 
--AI Intelligence 🤖: Powered by Depth-First Search (DFS) for strategic mine detection.
+- AI Intelligence 🤖: Powered by Depth-First Search (DFS) for strategic mine detection.
 
 -Dynamic Problem-Solving 🔍: Efficiently uncovers safe cells and avoids mines with precision.
 
