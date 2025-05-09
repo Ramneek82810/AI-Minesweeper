@@ -18,7 +18,7 @@ This project demonstrates how AI algorithms can solve complex puzzles in real-ti
 
 - Strategic Thinking: Mimics human-like decision-making with computational efficiency.
 
--Algorithmic Brilliance: Applies DFS and probabilistic reasoning to navigate the board.
+- Algorithmic Brilliance: Applies DFS and probabilistic reasoning to navigate the board.
 
 -Learning Potential: An educational tool for exploring AI in games.
 
