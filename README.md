@@ -20,7 +20,7 @@ This project demonstrates how AI algorithms can solve complex puzzles in real-ti
 
 - Algorithmic Brilliance: Applies DFS and probabilistic reasoning to navigate the board.
 
--Learning Potential: An educational tool for exploring AI in games.
+- Learning Potential: An educational tool for exploring AI in games.
 
 ## How It Works 🧠
 
