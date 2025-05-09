@@ -10,7 +10,7 @@ AI Minesweeper is a modern twist on the classic game, showcasing the power of Ar
 
 - Dynamic Problem-Solving 🔍: Efficiently uncovers safe cells and avoids mines with precision.
 
--Python-Powered 🐍: Entirely built using Python for simplicity and scalability.
+- Python-Powered 🐍: Entirely built using Python for simplicity and scalability.
 
 ## Why AI Minesweeper? 🌟
 
