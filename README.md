@@ -8,7 +8,7 @@ AI Minesweeper is a modern twist on the classic game, showcasing the power of Ar
 
 - AI Intelligence 🤖: Powered by Depth-First Search (DFS) for strategic mine detection.
 
--Dynamic Problem-Solving 🔍: Efficiently uncovers safe cells and avoids mines with precision.
+- Dynamic Problem-Solving 🔍: Efficiently uncovers safe cells and avoids mines with precision.
 
 -Python-Powered 🐍: Entirely built using Python for simplicity and scalability.
 
