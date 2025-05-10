@@ -28,7 +28,7 @@ This project demonstrates how AI algorithms can solve complex puzzles in real-ti
 
 - Strategic Moves: Combines logic and probability to uncover cells.
 
--Efficient Problem-Solving: Adopts a methodical approach to minimize errors and ensure success.
+- Efficient Problem-Solving: Adopts a methodical approach to minimize errors and ensure success.
 
 ## Future Enhancements 🔮
 
