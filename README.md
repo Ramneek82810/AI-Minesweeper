@@ -26,7 +26,7 @@ This project demonstrates how AI algorithms can solve complex puzzles in real-ti
 
 - AI Exploration: The AI intelligently scans the Minesweeper grid to identify safe zones.
 
--Strategic Moves: Combines logic and probability to uncover cells.
+- Strategic Moves: Combines logic and probability to uncover cells.
 
 -Efficient Problem-Solving: Adopts a methodical approach to minimize errors and ensure success.
 
