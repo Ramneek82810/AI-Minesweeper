@@ -34,7 +34,7 @@ This project demonstrates how AI algorithms can solve complex puzzles in real-ti
 
 - Incorporating advanced algorithms like Reinforcement Learning for adaptive strategies.
 
--Adding difficulty levels for enhanced gameplay.
+- Adding difficulty levels for enhanced gameplay.
 
 -Expanding the interface for multiplayer modes.
 
