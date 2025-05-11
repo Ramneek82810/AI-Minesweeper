@@ -36,7 +36,7 @@ This project demonstrates how AI algorithms can solve complex puzzles in real-ti
 
 - Adding difficulty levels for enhanced gameplay.
 
--Expanding the interface for multiplayer modes.
+- Expanding the interface for multiplayer modes.
 
 ## Contribute to the Project 🤝
 
