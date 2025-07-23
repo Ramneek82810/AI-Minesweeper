@@ -1,50 +1,104 @@
-# AI Minesweeper 🧠
+# 🧠 AI Minesweeper
 
-AI Minesweeper is a modern twist on the classic game, showcasing the power of Artificial Intelligence to play Minesweeper strategically and effectively. With its smart algorithms and interactive design, this project highlights the seamless integration of AI and gameplay.
+An intelligent agent that plays the classic game of **Minesweeper** using logical inference and probability-based decision-making — built using Python. Inspired by how humans play Minesweeper with partial information, this project simulates the agent's reasoning to uncover safe cells while avoiding mines.
 
-## Features 🚀
+---
 
-- Interactive Gameplay 🎮: Experience an engaging interface where AI takes center stage.
+## 📌 Overview
 
-- AI Intelligence 🤖: Powered by Depth-First Search (DFS) for strategic mine detection.
+This project builds an AI that plays Minesweeper automatically by:
 
-- Dynamic Problem-Solving 🔍: Efficiently uncovers safe cells and avoids mines with precision.
+- Using logical rules to infer safe and dangerous cells
+- Maintaining a **knowledge base**
+- Making **safe moves** based on deduction
+- Making **random moves** only when no inference is possible
 
-- Python-Powered 🐍: Entirely built using Python for simplicity and scalability.
+This project is part of Harvard's **CS50 AI course**.
 
-## Why AI Minesweeper? 🌟
+---
 
-This project demonstrates how AI algorithms can solve complex puzzles in real-time, emphasizing:
+## 🧠 Tech Stack
 
-- Strategic Thinking: Mimics human-like decision-making with computational efficiency.
+| Component     | Technology |
+|---------------|------------|
+| Programming   | Python     |
+| Game Logic    | OOP (Object-Oriented Programming) |
+| AI Techniques | Constraint Satisfaction, Logic Inference |
 
-- Algorithmic Brilliance: Applies DFS and probabilistic reasoning to navigate the board.
+---
 
-- Learning Potential: An educational tool for exploring AI in games.
+## 📁 Project Structure
 
-## How It Works 🧠
+```
+AI-Minesweeper/
+├── __pycache__/        # Compiled Python cache files
+├── assets/             # (Optional) Images/screenshots used in README
+├── minesweeper.py      # Game logic and AI agent implementation
+├── runner.py           # Main runner to play and visualize the game
+├── README.md           # Documentation
+```
 
-- AI Exploration: The AI intelligently scans the Minesweeper grid to identify safe zones.
+---
 
-- Strategic Moves: Combines logic and probability to uncover cells.
+## 📋 How It Works
 
-- Efficient Problem-Solving: Adopts a methodical approach to minimize errors and ensure success.
+1. **minesweeper.py**  
+   - Contains `Minesweeper` class to initialize the game board  
+   - Contains `Sentence` class that represents logical statements about the board  
+   - Contains `MinesweeperAI` that updates knowledge base, makes inferences
 
-## Future Enhancements 🔮
+2. **runner.py**  
+   - Runs the game in the terminal and simulates gameplay with AI moves  
+   - Logs the AI's decision-making process step-by-step
 
-- Incorporating advanced algorithms like Reinforcement Learning for adaptive strategies.
+---
 
-- Adding difficulty levels for enhanced gameplay.
+## ▶️ Getting Started
 
-- Expanding the interface for multiplayer modes.
+### ✅ Prerequisites
+- Python 3.x
 
-## Contribute to the Project 🤝
+### 🛠 Installation
 
-Your contributions are invaluable! Share your ideas, suggest improvements, or report issues to help refine AI Minesweeper. Together, we can make it even better.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Ramneek82810/AI-Minesweeper.git
+   cd AI-Minesweeper
+   ```
 
-## License 📜
+2. Run the game:
+   ```bash
+   python runner.py
+   ```
 
-This project is open-source and available under the MIT License.
+---
 
-Explore the fusion of AI and gaming with AI Minesweeper. Let’s uncover mines, one strategic move at a time! 🎉
+## 🎯 Features
+
+- 🤖 Smart decision-making AI
+- 🔁 Knowledge base updates dynamically
+- 🧠 Inference engine to deduce known safe/mine cells
+- 🧪 Visual output of game state and AI actions in console
+
+---
+
+## 🧪 Sample Output (Console)
+
+```plaintext
+AI Making Move: (0, 1)
+Added Sentence: {(0, 2), (1, 1)} = 1
+Marked (0, 2) as Safe
+Marked (1, 1) as Mine
+...
+```
+
+---
+
+## 📈 Future Improvements
+
+- Add graphical user interface (GUI)
+- Improve probability estimation when guesses are needed
+- Animate AI decision process for educational purpose
+
+---
 
